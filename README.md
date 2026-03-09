@@ -55,10 +55,8 @@ Portfolio-main/
 ## Proyectos destacados
 
 ### Sitio B2C para Oficios — Resolvé.uy
-Sitio Web B2C para la búsqueda de oficios en Uruguay.
-
+Sitio Web B2C para la búsqueda de oficios en Uruguay. //
 **Stack:** HTML · CSS · JavaScript · Backend Supabase
-
 [Código](https://github.com/AgustinCamara/Resolve.uy) · [Demo](https://resolve-uy.vercel.app/)
 
 ### Tienda de Ropa — Lince
