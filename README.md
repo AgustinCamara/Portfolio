@@ -8,26 +8,26 @@
 
 **Portfolio personal con diseño dark moderno, animaciones y diseño responsive.**
 
-[🔗 Ver en vivo](https://AgustinCamara.github.io/Portfolio/) · [💬 Contacto](https://wa.me/59892087942?text=Hola%20Agustin%2C%20vi%20tu%20portfolio)
+[Ver en vivo](https://AgustinCamara.github.io/Portfolio/) · [Contacto](https://wa.me/59892087942?text=Hola%20Agustin%2C%20vi%20tu%20portfolio)
 
 </div>
 
 ---
 
-## ✨ Características
+## Características
 
-- 🌙 Diseño dark profesional con paleta violeta/cyan
-- 🎨 Animaciones reveal al hacer scroll (Intersection Observer)
-- 📱 Totalmente responsive (mobile, tablet, desktop)
-- 🍔 Menú hamburguesa animado en móvil
-- 📊 Contadores animados en la sección "Sobre mí"
-- ⬆️ Botón scroll-to-top con aparición automática
-- 🔗 Navegación activa que detecta la sección visible
-- ⚡ Carga optimizada con lazy loading de imágenes
+- Diseño dark profesional con paleta violeta/cyan
+- Animaciones reveal al hacer scroll (Intersection Observer)
+- Totalmente responsive (mobile, tablet, desktop)
+- Menú hamburguesa animado en móvil
+- Contadores animados en la sección "Sobre mí"
+- Botón scroll-to-top con aparición automática
+- Navegación activa que detecta la sección visible
+- Carga optimizada con lazy loading de imágenes
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 | Categoría | Stack |
 |-----------|-------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 Portfolio-main/
@@ -52,21 +52,21 @@ Portfolio-main/
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### Tienda de Ropa — Lince
 E-commerce completo con catálogo, carrito de compras y diseño responsive.  
 **Stack:** HTML · CSS · JavaScript  
-[📦 Código](https://github.com/AgustinCamara/Lince) · [🌐 Demo](https://AgustinCamara.github.io/Lince)
+[Código](https://github.com/AgustinCamara/Lince) · [Demo](https://AgustinCamara.github.io/Lince)
 
 ### Asistente Legal con IA
 Asistente legal inteligente impulsado por Groq API para consultas jurídicas en tiempo real.  
 **Stack:** HTML · CSS · JavaScript · Groq API  
-[📦 Código](https://github.com/AgustinCamara/Asistente-legal) · [🌐 Demo](https://AgustinCamara.github.io/Asistente-Legal/)
+[Código](https://github.com/AgustinCamara/Asistente-legal) · [Demo](https://AgustinCamara.github.io/Asistente-Legal/)
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 | Canal | Enlace |
 |-------|--------|
@@ -74,11 +74,3 @@ Asistente legal inteligente impulsado por Groq API para consultas jurídicas en 
 | **LinkedIn** | [Agustín Cámara](https://www.linkedin.com/in/agustin-camara/) |
 | **GitHub** | [AgustinCamara](https://github.com/AgustinCamara) |
 | **WhatsApp** | [Enviar mensaje](https://wa.me/59892087942?text=Hola%20Agustin%2C%20vi%20tu%20portfolio) |
-
----
-
-<div align="center">
-
-Hecho con ☕ y código por **Agustín Cámara** — 2026
-
-</div>
